@@ -1,0 +1,16 @@
+GYR DB Connection Details
+
+Server Name: vteccreationscom.ipagemysql.com
+
+User Name: 
+
+Password: 
+
+DB Name: gyr
+
+
+Vertec Lands Admin Profile Details
+
+User Name: admin
+
+Password: admin123
